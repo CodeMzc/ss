@@ -24,6 +24,4 @@
 操作上大同小异。
 
 ### 下载
-
-- [Github](
 - [公共网盘](https://netdisk.ojhdt.com/%E8%BD%AF%E4%BB%B6/Shadowsocks/)
