@@ -1,5 +1,8 @@
 ### 使用说明
 
+### 软件下载
+- [公共网盘](https://netdisk.ojhdt.com/%E8%BD%AF%E4%BB%B6/Shadowsocks/)
+
 #### PC
 1. 下载后解压压缩包，运行客户端。
 
@@ -23,5 +26,45 @@
 
 操作上大同小异。
 
-### 下载
-- [公共网盘](https://netdisk.ojhdt.com/%E8%BD%AF%E4%BB%B6/Shadowsocks/)
+1. 点击加号，选择`从剪贴板导入`。
+
+2. 点击'飞机'图标运行。
+
+#### Mac
+
+1. 解压后移动到合适目录下，然后启动。
+
+如果弹出系统安全提示，请选「允许」。
+
+![4](/pic/p.png)
+
+
+2. 这时候就能在屏幕的右上角找到 Shadowsocks 的纸飞机图标了。注意一下在 mac 中的客户端不叫 Shadowsocks，而是叫 ShadowsocksX，由其全名 Shadowsocks for OSX 简写而来。
+
+
+3. 点击 ShadowsocksX 图标，在弹出的菜单栏中选择服务器-打开服务器设定。
+
+![6](/pic/p2.png)
+
+4. 点击右下角的加号，添加服务器配置，然后在左边填入各项 Shadowsocks 账号参数。填写完毕后点击确定。
+
+![7](/pic/p3.png)
+
+5. 再次点击 ShadowsocksX 图标，选择服务器，可以看到列表中除了添加服务器配置之外，刚才添加的配置文件也已经显示在列表中了，点击选中刚才添加的 Shadowsocks 配置文件，选中状态前面是有一个小√的。
+
+![8](/pic/p4.png)
+
+6. 最后，点击 ShadowsocksX 图标，点击打开 Shadowsocks。
+
+![8](/pic/p5.png)
+
+验证是否已经科学上网了，打开浏览器输入youtube.com或者google.com进行测试，如果一切配置正常，此时应该可以正常自由访问。
+
+#### IOS
+
+1. 准备一个非国区 App ID。
+
+2. 下载工具 Shadowrocket。
+
+3. 参考Android端使用教程。
+
