@@ -1,6 +1,6 @@
 ### 使用说明
 
-### 软件下载
+#### 软件下载
 - [公共网盘](https://netdisk.ojhdt.com/%E8%BD%AF%E4%BB%B6/Shadowsocks/)
 
 #### PC
